@@ -11,5 +11,6 @@ int main() {
         printf("vocales[%d] = %c %c\n", i, *(ptr + i), *(ptr + i));
     }
 
+    
     return 0;
 }
